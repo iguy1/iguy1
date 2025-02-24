@@ -5,6 +5,8 @@ Introduction
 Hello! My name is Ian Guy, and I am a second-year Computer Science student at University of Delaware. I am passionate about software development and am actively seeking an internship opportunity to apply my skills and gain hands-on experience in the tech industry.
 
 Education
+
+
 University of Delaware (Expected Graduation: May 2027)
 Bachelor of Science in Computer Science
 Relevant Coursework: Introduction to Computer Science, Object-Oriented Programming, Intro to Systems Programming, Data Structures and Algorithms(In Progress), Machine Organization and Assembly Language(In Progress),Introduction to Finance(In Progress)
@@ -13,8 +15,9 @@ Programming Languages: Python, C, Typescript, C++(In progress), Assembly Languag
 Frameworks & Libraries: React(In progress),
 Tools & Technologies: Git, GitHub, Linux
 Soft Skills: Problem-solving, Teamwork, Communication, Time Management, Adaptability
+
+
 Projects
-Personal Projects
 Here are some of my projects!
 1. Personal Portfolio Page
 This is my first personal website, marking the beginning of many exciting projects to come!
@@ -56,6 +59,7 @@ Participant in Hackathons
 Contact Information
 Email: ian.guy015@gmail.com
 LinkedIn: www.linkedin.com/in/ian-guy
+
 Conclusion
 I am eager to contribute my technical skills and enthusiasm to a dynamic team. I am confident that an internship will provide me with valuable experience and help me grow as a software engineer. Thank you for considering my application!
 
