@@ -21,6 +21,9 @@ Projects
 
 
 1. Personal Portfolio Page
+
+https://iguy1.github.io/portfolio/
+
 This is my first personal website, marking the beginning of many exciting projects to come!
 
 Built using React, this portfolio serves as a showcase of my skills, projects, and achievements in software development. It provides an easy-to-navigate interface where visitors can learn more about me, explore my work, and connect with me.
@@ -28,6 +31,10 @@ Built using React, this portfolio serves as a showcase of my skills, projects, a
 As my skills continue to grow, I plan to enhance this website with new features, such as interactive animations, a blog section, and a contact form. Stay tuned for updates!
 
 2. Loan Amortization Calculator
+
+https://ud-f24-cisc181.github.io/final-project-phase-2-iguy1/
+
+
 This was my final project for a TypeScript class, designed to help users calculate loan payments and visualize amortization schedules.
 
 Developed using a React-like framework, the application allows users to input loan details (such as principal, interest rate, and term) and generates a detailed breakdown of monthly payments, interest paid, and remaining balance over time.
@@ -35,6 +42,9 @@ Developed using a React-like framework, the application allows users to input lo
 Through this project, I strengthened my understanding of financial calculations, TypeScript’s type system, and component-based development. It was a great learning experience that reinforced both front-end and back-end logic.
 
 3. Society for Professional Computing
+
+https://iguy1.github.io/compsciclub/
+
 I built this React-based website for a school club I recently joined, the Society for Professional Computing. The goal was to create an intuitive and visually appealing platform for both current members and prospective students interested in joining.
 
 Through this project, I saw significant improvement in my React development skills, especially in component structuring, state management, and UI design. The website features:
@@ -44,6 +54,9 @@ A membership information page for new students
 By creating this platform, I aimed to provide our club with an accessible and well-organized online presence that fosters engagement and growth.
 
 4. Personal Photography Website
+
+https://iguy1.github.io/iguypictures/
+
 As a photography enthusiast, I built this React-based website to showcase my personal photography projects, primarily capturing moments at the University of Delaware.
 
 The website serves as a digital gallery where I upload and organize my photos, allowing visitors to explore my work in a structured and immersive format. Features include:
@@ -59,6 +72,8 @@ Member of Society for Professional Computing
 Participant in Hackathons 
 Contact Information
 Email: ian.guy015@gmail.com
+
+
 LinkedIn: www.linkedin.com/in/ian-guy
 
 
