@@ -1,7 +1,7 @@
 Ian Guy - Aspiring Software Engineer
 
 
-Introduction
+
 Hello! My name is Ian Guy, and I am a second-year Computer Science student at University of Delaware. I am passionate about software development and am actively seeking an internship opportunity to apply my skills and gain hands-on experience in the tech industry.
 
 Education
@@ -18,7 +18,8 @@ Soft Skills: Problem-solving, Teamwork, Communication, Time Management, Adaptabi
 
 
 Projects
-Here are some of my projects!
+
+
 1. Personal Portfolio Page
 This is my first personal website, marking the beginning of many exciting projects to come!
 
@@ -60,6 +61,11 @@ Contact Information
 Email: ian.guy015@gmail.com
 LinkedIn: www.linkedin.com/in/ian-guy
 
+
+
 Conclusion
+
+
+
 I am eager to contribute my technical skills and enthusiasm to a dynamic team. I am confident that an internship will provide me with valuable experience and help me grow as a software engineer. Thank you for considering my application!
 
