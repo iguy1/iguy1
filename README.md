@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello! My name is Ian Guy, and I am a second-year Computer Science student at University of Delaware. I am passionate about software development and am actively seeking an internship opportunity to apply my skills and gain hands-on experience in the tech industry.
+<h1>Hi 👋, I'm Ian</h1>
+<p>A passionate second-year computer science student at the University of Delaware </p>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
