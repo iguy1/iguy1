@@ -1,86 +1,21 @@
-Ian Guy - Aspiring Software Engineer
+# 💫 About Me:
+Hello! My name is Ian Guy, and I am a second-year Computer Science student at University of Delaware. I am passionate about software development and am actively seeking an internship opportunity to apply my skills and gain hands-on experience in the tech industry.<br>Relevant Coursework: Introduction to Computer Science, Object-Oriented Programming, Intro to Systems Programming, Data Structures and Algorithms(In Progress), Machine Organization and Assembly Language(In Progress),Introduction to Finance(In Progress)<br>Soft Skills: Problem-solving, Teamwork, Communication, Time Management, Adaptability<br>Projects:<br> 1. Personal Portfolio Page<br><br>https://iguy1.github.io/portfolio/<br><br>2. Loan Amortization Calculator<br><br>https://ud-f24-cisc181.github.io/final-project-phase-2-iguy1/<br><br>3. Society for Professional Computing<br><br>https://iguy1.github.io/compsciclub/<br><br>4. Personal Photography Website<br><br>https://iguy1.github.io/iguypictures/<br><br>LinkedIn: www.linkedin.com/in/ian-guy<br><br>Email: ian.guy015@gmail.com<br><br><br>
 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iguy1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iguy1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iguy1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Hello! My name is Ian Guy, and I am a second-year Computer Science student at University of Delaware. I am passionate about software development and am actively seeking an internship opportunity to apply my skills and gain hands-on experience in the tech industry.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-Education
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iguy1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=iguy1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-University of Delaware (Expected Graduation: May 2027)
-Bachelor of Science in Computer Science
-Relevant Coursework: Introduction to Computer Science, Object-Oriented Programming, Intro to Systems Programming, Data Structures and Algorithms(In Progress), Machine Organization and Assembly Language(In Progress),Introduction to Finance(In Progress)
-
-Programming Languages: Python, C, Typescript, C++(In progress), Assembly Language(In Progress)
-Frameworks & Libraries: React(In progress),
-Tools & Technologies: Git, GitHub, Linux
-Soft Skills: Problem-solving, Teamwork, Communication, Time Management, Adaptability
-
-
-Projects
-
-
-1. Personal Portfolio Page
-
-https://iguy1.github.io/portfolio/
-
-This is my first personal website, marking the beginning of many exciting projects to come!
-
-Built using React, this portfolio serves as a showcase of my skills, projects, and achievements in software development. It provides an easy-to-navigate interface where visitors can learn more about me, explore my work, and connect with me.
-
-As my skills continue to grow, I plan to enhance this website with new features, such as interactive animations, a blog section, and a contact form. Stay tuned for updates!
-
-2. Loan Amortization Calculator
-
-https://ud-f24-cisc181.github.io/final-project-phase-2-iguy1/
-
-
-This was my final project for a TypeScript class, designed to help users calculate loan payments and visualize amortization schedules.
-
-Developed using a React-like framework, the application allows users to input loan details (such as principal, interest rate, and term) and generates a detailed breakdown of monthly payments, interest paid, and remaining balance over time.
-
-Through this project, I strengthened my understanding of financial calculations, TypeScript’s type system, and component-based development. It was a great learning experience that reinforced both front-end and back-end logic.
-
-3. Society for Professional Computing
-
-https://iguy1.github.io/compsciclub/
-
-I built this React-based website for a school club I recently joined, the Society for Professional Computing. The goal was to create an intuitive and visually appealing platform for both current members and prospective students interested in joining.
-
-Through this project, I saw significant improvement in my React development skills, especially in component structuring, state management, and UI design. The website features:
-
-An event list to track upcoming club activities
-A membership information page for new students
-By creating this platform, I aimed to provide our club with an accessible and well-organized online presence that fosters engagement and growth.
-
-4. Personal Photography Website
-
-https://iguy1.github.io/iguypictures/
-
-As a photography enthusiast, I built this React-based website to showcase my personal photography projects, primarily capturing moments at the University of Delaware.
-
-The website serves as a digital gallery where I upload and organize my photos, allowing visitors to explore my work in a structured and immersive format. Features include:
-
-Image categories (e.g., campus landscapes, events, creative shots)
-Full-screen image previews for a high-quality viewing experience
-This project allowed me to merge my passion for photography and web development, enhancing both my front-end skills and my ability to create aesthetically pleasing digital experiences.
-
-
-
-Extracurricular Activities
-Member of Society for Professional Computing
-Participant in Hackathons 
-Contact Information
-Email: ian.guy015@gmail.com
-
-
-LinkedIn: www.linkedin.com/in/ian-guy
-
-
-
-Conclusion
-
-
-
-I am eager to contribute my technical skills and enthusiasm to a dynamic team. I am confident that an internship will provide me with valuable experience and help me grow as a software engineer. Thank you for considering my application!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
