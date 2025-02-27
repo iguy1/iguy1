@@ -11,20 +11,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/iguy1/iguy1/output/github-snake.svg" />
 </picture>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iguy1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iguy1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iguy1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iguy1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/iguy1/iguy1/output/github-snake.svg" />
-</picture>
 
  1. Personal Portfolio Page<br><br>https://iguy1.github.io/portfolio/<br><br>2. Loan Amortization Calculator<br><br>https://ud-f24-cisc181.github.io/final-project-phase-2-iguy1/<br><br>3. Society for Professional Computing<br><br>https://iguy1.github.io/compsciclub/<br><br>4. Personal Photography Website<br><br>https://iguy1.github.io/iguypictures/<br><br>LinkedIn: www.linkedin.com/in/ian-guy<br><br>Email: ian.guy015@gmail.com<br><br><br>
 
