@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Ian</h1>
 <p>A passionate second-year computer science student at the University of Delaware </p>
+<p>I am currently working on some sort of homework assignment or building this cool GameHub that I want to model like coolmath games with AI. When I am not wondering why my code doesn't work or creating an application that brings me joy. I enjoy lifting weights🏋️, boxing🥊,photography📷, running 🏃🏿‍♂️, and reading📖.</p>
 
 
 # 💻 Tech Stack:
