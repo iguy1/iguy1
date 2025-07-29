@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Ian</h1>
 <p>A passionate third-year computer science student at the University of Delaware </p>
-<p>I am currently working on some sort of homework assignment or building this cool lightweight, browser-based GameHub with AI tools. When I am not reading an error code or creating an application that brings me joy. I enjoy lifting weights🏋️, boxing🥊,photography📷, running 🏃🏿‍♂️, and reading📖.</p>
+<p>I am currently working on leetcode or building some sort of project. When I am not reading an error code or creating an application that brings me joy. I enjoy lifting weights🏋️, boxing🥊,photography📷, running 🏃🏿‍♂️, and reading📖.</p>
 
 
 # 💻 Tech Stack:
